@@ -15,7 +15,8 @@ title: Home
 - [Teaching]
 - [Design]
 
-Fry, we have a crate to deliver. I don't 'need' to drink. I can quit anytime I want! And from now on you're all named Bender Jr. Why did you bring us here?
+By training I specialize in International Relations, Comparative Politics, and Environmental Politics. My research interests include environmental labor studies, the political ecology of labor, and science and technology studies. 
+line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 
 We're rescuing ya. My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards.
 
