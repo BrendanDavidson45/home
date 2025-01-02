@@ -21,9 +21,15 @@
 title: Brendan's Profile Page
 email: brendan.davidson@colostate.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
+  Welcome to my website! Pretty much anything you need to know about me can be found here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+
+  I am an assistant professor of sociology at Austin College in Sherman, TX. My research is at the crossroads of immigration policy and labor studies, with a specific focus on how and why U.S. immigration policy is changing from a family reunification and humanitarian-based model to one that increasingly privileges short-term immigration for labor purposes.  
+
+I am also an activist and a member of Migration that Works, a coalition of labor, migration, civil rights, anti-trafficking organizations and academics advancing a labor migration model that respects the human rights of workers, families and communities and reflects their voices and experiences. Additionally, I am an affiliate member of the American Association of University Professors and love teaching about and being part of a union.
+
+When I am not working I love being in nature or doing just about anything with my spouse, Scott, and our two boys, James and Theo.
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://BrendanDavidson45.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
