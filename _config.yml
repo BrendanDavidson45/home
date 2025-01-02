@@ -33,7 +33,7 @@ twitter_username: jekyllrb
 github_username:  BrendanDavidson45
 
 # Build settings
-theme: jekyll-theme-al-folio
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
