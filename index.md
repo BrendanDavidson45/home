@@ -12,6 +12,8 @@ title: Home
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
 - [Publications](01-publications)
+- [Teaching]
+- [Design]
 
 Fry, we have a crate to deliver. I don't 'need' to drink. I can quit anytime I want! And from now on you're all named Bender Jr. Why did you bring us here?
 
