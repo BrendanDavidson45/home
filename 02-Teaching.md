@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Images
+title:  Teaching
 nav_order: 2
 ---
 # Adding images to your page or post
