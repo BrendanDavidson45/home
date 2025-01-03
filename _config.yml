@@ -18,11 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Brendan's Profile Page
+title: Brendan's Personal Site
 email: brendan.davidson@colostate.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website!
-  I am a PhD Candidate in Political Science at Colorado State University.
+  Welcome to my website! Almost everything you want to know about me can be found here. 
   
 baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://BrendanDavidson45.github.io" # the base hostname & protocol for your site, e.g. http://example.com
