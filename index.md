@@ -15,12 +15,9 @@ title: Home
 - [Teaching]
 - [Design]
 
-By training I specialize in International Relations, Comparative Politics, and Environmental Politics. My research interests include environmental labor studies, the political ecology of labor, and science and technology studies. 
-line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+I am a PhD Candidate of Political Science at Colorado State University and Intern with the Center for New Energy Economy. 
+By training I specialize in International Relations, Comparative Politics, and Environmental Politics. My research covers environmental labor studies, the political ecology of labor, global political economy, and science and technology studies. Mosst of these center on green technologies, the energy transition, and the labor movement in the US and Nordic contexts. These themes are covered in peer reviewed articles written for _Energy Research and Social Science_, _Economic Labour Relations Review_(forthcoming), and the _Labor Employment Relations Association_(forthcoming).  
 
-We're rescuing ya. My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards.
+Previously, I was a Global Future of Work(ers) Fellow at Rutgers University (2021-2023), a fellow with Colorado State University's Vice President of Research Office (2022-2023). I received my MA in Environmental Policy and Public Administration from the University of Colorado, Denver in 2014, and my BA from the University of Northern Colorado in 2012.
 
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. I was having the most wonderful dream. Except you were there, and you were there, and you were there!
-
-Bender, quit destroying the universe! Come, Comrade Bender! We must take to the streets! I just told you! You've killed me! Ven ve voke up, ve had zese wodies. You guys aren't Santa! You're not even robots. How dare you lie in front of Jesus?
 [dummy text](http://fillerama.io/)
