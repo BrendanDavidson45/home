@@ -3,7 +3,7 @@ layout: default
 title:  Teaching
 nav_order: 2
 ---
-# Adding images to your page or post
+## Explore this page to learn more about the classes I have taught and my teaching philosophy. 
 
 insert teaching
 
