@@ -7,11 +7,6 @@ nav_order: 2
 
 For an in-depth description of my teaching experiences and philosophy, please download my [teaching portfolio](UnderConstruction)
 
-#### Adding an image is super easy! Here are a few methods
-[View the source Markdown for this page](https://raw.githubusercontent.com/ubc-lib-geo/gis-workshop-waml-template/master/content/examples/images.md)
-
-
-
 ___
 
 **Classes Taught:**
@@ -20,7 +15,7 @@ ___
 
 **Classes Under Construction:**
 
-- Contentious Politics and Social Movements
+- Comparative Labor Politics
 - Environmental Politics
 - Energy Politics and Policy
 - Global Environmental Politics
