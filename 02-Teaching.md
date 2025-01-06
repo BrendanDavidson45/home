@@ -5,7 +5,9 @@ nav_order: 2
 ---
 ## Explore this page to learn more about the classes I have taught and my teaching philosophy. 
 
-insert teaching
+**Classes Taught:**
+
+Teaching Portfolio
 
 #### Adding an image is super easy! Here are a few methods
 [View the source Markdown for this page](https://raw.githubusercontent.com/ubc-lib-geo/gis-workshop-waml-template/master/content/examples/images.md)
@@ -14,14 +16,19 @@ insert teaching
 
 ___
 
-**Add an image from the web:**
+**Classes Taught:**
 
-Start an in-line link with an exclamation point then place the alt text in the brackets followed by the image link in the parentheses:
+- [Current World Problems](https://docs.google.com/document/d/1qusyrjNtgqLopNoiCbaRWwvdx3i62eBY/edit?usp=sharing&ouid=113818423715311488588&rtpof=true&sd=true)
 
-```
-![Kenobi](https://upload.wikimedia.org/wikipedia/en/3/32/Ben_Kenobi.png)
-```
+**Classes Under Construction:**
 
-![Kenobi](https://upload.wikimedia.org/wikipedia/en/3/32/Ben_Kenobi.png)
-
-You can also add images "reference style." This is handy if you don't want to clutter up your Markdown or if you need to use an image more than once. You can just place the references at the bottom of the page. It goes like this:
+- Contentious Politics and Social Movements
+- Environmental Politics
+- Energy Politics and Policy
+- Global Environmental Politics
+- Global Governance
+- International Political Economy
+- Labor Politics in the US and Abroad
+- Introduction to International Relations
+- Introduction to Comparative Politics
+- Political Geography
