@@ -5,9 +5,7 @@ nav_order: 2
 ---
 ## Explore this page to learn more about the classes I have taught and my teaching philosophy. 
 
-**Classes Taught:**
-
-Teaching Portfolio
+For an in-depth description of my teaching experiences and philosophy, please download my [teaching portfolio](UnderConstruction)
 
 #### Adding an image is super easy! Here are a few methods
 [View the source Markdown for this page](https://raw.githubusercontent.com/ubc-lib-geo/gis-workshop-waml-template/master/content/examples/images.md)
