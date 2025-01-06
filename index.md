@@ -6,7 +6,7 @@ title: Home
 ## Welcome to my personal site!
 
 
-#### Here are some example pages:
+#### Page Navigation:
 
 - [CV](01-CV)
 - [Teaching]
