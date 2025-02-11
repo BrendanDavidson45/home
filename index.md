@@ -21,6 +21,3 @@ When I'm not working, I can be found outside hiking, running, or fly-fishing.
 - [CV](01-CV)
 - [Teaching]
 - [Design Work]
-- [Markdown](02-markdown-examples)
-- [Images](03-images-examples)
-- [Embeds](04-embeds-examples)
