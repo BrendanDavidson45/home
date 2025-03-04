@@ -19,5 +19,5 @@ When I'm not working, I can be found outside hiking, running, or fly-fishing.
 #### Page Navigation:
 
 - [CV](01-CV)
-- [Teaching]
+- [Teaching](02-Teaching)
 - [Design Work]
