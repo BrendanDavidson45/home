@@ -28,8 +28,13 @@ _Still images, posters, and creative layouts._
 
 | Description |
 |------------|
+| **[CenterLinks Brand Guide]([#](https://drive.google.com/file/d/1pkbwPKV-sKR2f-7-4CnYJl6mSEUU0bPj/view?usp=drive_link)** – Another project description. |
 | **[VRA Factsheet](https://drive.google.com/file/d/1u8rH2V8_RknsW2hUtvUNMDMxyhOu_KKh/view?usp=drive_link)** – A factsheet summarizing the VRA process. |
-| **[Design Title](#)** – Another project description. |
+| **[Denver Local Attractions Ad](https://drive.google.com/file/d/1kPjgnpBrATrbAzqR6UwaA3G1oP8hCp0T/view?usp=drive_link)** – An advertisement used to promote local Denver area attractions. |
+| **[VRA Newsletter](https://indd.adobe.com/view/e7a67809-f88b-42ba-be7a-fe2ef0595039)** – Newsletter designed for Colorado's Victims Rights Act program. |
+| **[Mercury Deposition in National Parks](https://drive.google.com/file/d/1uHyEy4VeaFYMaHDMrLWuUFmY0y-UE__S/view?usp=drive_link)** – Factsheet for NPS-Air Resources Division describing mercury deposition across National Parks. |
+| **[National Compendium Solicitation](https://drive.google.com/file/d/1XOjyv575RvrrwJCwyUdLbRpbpYFXpSFP/view?usp=drive_link)** – Brochure to encourage others to join a national organization. |
+| **[Division of Criminal Justice Report Cover](https://drive.google.com/file/d/12VWr9WfAhxI-LNeKZvBVGgGYg6DjLUB6/view?usp=drive_link)** – Design sample for a report cover for the Division of Criminal Justice. |
 
 ---
 
@@ -39,6 +44,7 @@ _Animations and interactive media._
 ### 📌 Featured Motion Project  
 🎥 **[Project Name](#)** – A brief description of the moving design, with a link to a video or interactive file.  
 
-- **[Project Name](#)** – Short description.  
-- **[Project Name](#)** – Another project description.  
+- **[Project Name](#)** – Short description.
+- **[Project Name](#)** – Short description.   
+- **[Responding to Wildfire](https://drive.google.com/file/d/1rT5pmaf4Yfa5VQYMsLiwc2NB9c3Ho931/view?usp=drive_link)** – Scrollable web based infographic to educate wildlife urban interface (WUI) homeowners on how to respond.  
 
