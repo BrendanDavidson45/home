@@ -14,7 +14,7 @@ Previously, I was a Global Future of Work(ers) Fellow at Rutgers University (202
 
 Prior to pursuing a PhD, I also worked for several organizations and agencies like Colorado's Office for Victims Programs with the Department of Public Safety, National Renewable Energy Laboratory, and National Park Service. 
 
-When I'm not working, I can be found outside hiking, running, or fly-fishing. 
+When I'm not working, I can be found outside hiking, running, or fly-fishing.
 
 #### Page Navigation:
 
