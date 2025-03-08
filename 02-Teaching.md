@@ -19,9 +19,8 @@ ___
 - Environmental Politics
 - Energy Politics and Policy
 - Global Environmental Politics
-- Global Governance
+- Political Ecology
 - International Political Economy
-- Labor Politics in the US and Abroad
 - Introduction to International Relations
 - Introduction to Comparative Politics
 - Political Geography
