@@ -42,9 +42,9 @@ _Still images, posters, and creative layouts._
 _Animations and interactive media._  
 
 ### 📌 Featured Motion Project  
-🎥 **[Project Name](#)** – A brief description of the moving design, with a link to a video or interactive file.  
+🎥 **[2018 CHTC Report Cover Motion Graphic](https://drive.google.com/file/d/14O4f6X5Y9hj74f6jFr3_WOZ2Iki364oD/view?usp=sharing)** – A web based motion graphic for the 2018 CHTC report.  
 
-- **[Project Name](#)** – Short description.
+- **[How Wind Works](https://www.energy.gov/eere/wind/explore-wind-turbine)** – I did not design this interactive graphic, but I was responsible for the writing, concepts, and .
 - **[Project Name](#)** – Short description.   
 - **[Responding to Wildfire](https://drive.google.com/file/d/1rT5pmaf4Yfa5VQYMsLiwc2NB9c3Ho931/view?usp=drive_link)** – Scrollable web based infographic to educate wildlife urban interface (WUI) homeowners on how to respond.  
 
