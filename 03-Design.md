@@ -16,7 +16,7 @@ Here, you'll find a collection of my design work categorized into three sections
 ## 📖 Academic Designs  
 _A collection of visually engaging academic projects._  
 
-- **[Wind Production Network](#)** – An image that summarizes key components of wind production networks.  
+- **[Wind Production Network](content/img/WindProductionNetwork.png)** – An image that summarizes key components of wind production networks.  
 - **[Green Jobs Typology](#)** – _In progress_.
 - **[US Wind Energy and Right to Work](content/img/RightToWorkUsFinal.png)** – A map that displays wind resources across the US in comparison to right to work states.
 <img src="content/img/RightToWorkUsFinal.png" alt="map of the US with wind energy" width="600">
