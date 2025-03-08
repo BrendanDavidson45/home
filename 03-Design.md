@@ -28,7 +28,7 @@ _Still images, posters, and creative layouts._
 
 | Thumbnail | Description |
 |-----------|------------|
-| ![Design 1](image-link.jpg) | **[Design Title](#)** – A brief summary of the work. |
+| !VRA Factsheet]([image-link.jpg](https://drive.google.com/file/d/1u8rH2V8_RknsW2hUtvUNMDMxyhOu_KKh/view?usp=drive_link)) | **[VRA Factsheet](https://drive.google.com/file/d/1u8rH2V8_RknsW2hUtvUNMDMxyhOu_KKh/view?usp=drive_link)** – A factsheet summarizing the VRA process. |
 | ![Design 2](image-link.jpg) | **[Design Title](#)** – Another project description. |
 
 ---
