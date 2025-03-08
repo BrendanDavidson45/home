@@ -3,8 +3,6 @@ layout: default
 title:  Design Samples
 nav_order: 3
 ---
-## This page includes some past design work I have done, including research based designs. 
-
 # My Design Portfolio  
 
 Here, you'll find a collection of my design work categorized into three sections:  
