@@ -20,4 +20,4 @@ When I'm not working, I can be found outside hiking, running, or fly-fishing.
 
 - [CV](01-CV)
 - [Teaching](02-Teaching)
-- [Design Work]
+- [Design Work](03-Design.md)
