@@ -21,9 +21,6 @@ _A collection of visually engaging academic projects._
 - **[US Wind Energy and Right to Work](content/img/RightToWorkUsFinal.png)** – A map that displays wind resources across the US in comparison to right to work states.
 <img src="content/img/RightToWorkUsFinal.png" alt="map of the US with wind energy" width="600">
 
-![US Wind and Right to Work Map](content/img/RightToWorkUsFinal.png)
-
-
 ---
 
 ## 🎨 Static Designs  
