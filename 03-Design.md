@@ -28,7 +28,7 @@ _Still images, posters, and creative layouts._
 
 | Description |
 |------------|
-| **[CenterLinks Brand Guide]([#](https://drive.google.com/file/d/1pkbwPKV-sKR2f-7-4CnYJl6mSEUU0bPj/view?usp=drive_link)** – Another project description. |
+| **[CenterLinks Brand Guide](https://drive.google.com/file/d/1pkbwPKV-sKR2f-7-4CnYJl6mSEUU0bPj/view?usp=drive_link)** – Another project description. |
 | **[VRA Factsheet](https://drive.google.com/file/d/1u8rH2V8_RknsW2hUtvUNMDMxyhOu_KKh/view?usp=drive_link)** – A factsheet summarizing the VRA process. |
 | **[Denver Local Attractions Ad](https://drive.google.com/file/d/1kPjgnpBrATrbAzqR6UwaA3G1oP8hCp0T/view?usp=drive_link)** – An advertisement used to promote local Denver area attractions. |
 | **[VRA Newsletter](https://indd.adobe.com/view/e7a67809-f88b-42ba-be7a-fe2ef0595039)** – Newsletter designed for Colorado's Victims Rights Act program. |
