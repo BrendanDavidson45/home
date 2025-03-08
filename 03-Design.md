@@ -45,6 +45,6 @@ _Animations and interactive media._
 🎥 **[2018 CHTC Report Cover Motion Graphic](https://drive.google.com/file/d/14O4f6X5Y9hj74f6jFr3_WOZ2Iki364oD/view?usp=sharing)** – A web based motion graphic for the 2018 CHTC report.  
 
 - **[How Wind Works](https://www.energy.gov/eere/wind/explore-wind-turbine)** – I did not design this interactive graphic, but I was responsible for the writing, concept development, and storyboarding.
-- **[Holiday Video](https://drive.google.com/file/d/1e0JrdzznyJxyZzylxOU4tGcFgpSUISMK/view?usp=drive_link)** – A holiday greeting card I made during the first year of the pandemic.   
+- **[Holiday Video](https://drive.google.com/file/d/1e0JrdzznyJxyZzylxOU4tGcFgpSUISMK/view?usp=drive_link)** – A holiday greeting card I made during the first year of the pandemic. All the visuals were created by me. The poem is courtesy of JRR Tolkien and the music is by Clamavi de Profundis 🤓.  
 - **[Responding to Wildfire](https://drive.google.com/file/d/1rT5pmaf4Yfa5VQYMsLiwc2NB9c3Ho931/view?usp=drive_link)** – Scrollable web based infographic to educate wildlife urban interface (WUI) homeowners on how to respond.  
 
