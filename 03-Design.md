@@ -16,8 +16,9 @@ Here, you'll find a collection of my design work categorized into three sections
 ## 📖 Academic Designs  
 _A collection of visually engaging academic projects._  
 
-- **[Project Name](#)** – Brief description of the project.  
-- **[Project Name](#)** – Another academic project with a description.  
+- **[Wind Production Network](#)** – Brief description of the project.  
+- **[US Wind Energy and Right to Work](#)** – Another academic project with a description.
+- **[Green Jobs Typology](#)** – Another academic project with a description.    
 
 ---
 
