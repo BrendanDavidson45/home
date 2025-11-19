@@ -12,14 +12,16 @@ ___
 **Classes Taught:**
 
 - [Current World Problems](https://docs.google.com/document/d/1qusyrjNtgqLopNoiCbaRWwvdx3i62eBY/edit?usp=sharing&ouid=113818423715311488588&rtpof=true&sd=true)
+- [Global Environmental Politics](https://drive.google.com/file/d/11KJu8mIkvJajG1Nl497JP1I9U8lUKTYH/view?usp=drive_link) 
 
 **Classes Under Construction:**
 
 - Comparative Labor Politics
-- Environmental Politics
+- Environmental Politics & Policy
+- Environmental Justice
 - Energy Politics and Policy
-- Global Environmental Politics
 - Political Ecology
+- Labour Environmentalism
 - International Political Economy
 - Introduction to International Relations
 - Introduction to Comparative Politics
