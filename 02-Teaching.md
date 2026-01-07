@@ -17,12 +17,13 @@ ___
 **Classes Under Construction:**
 
 - Comparative Labor Politics
+- Comparative Environmental Politics
 - Environmental Politics & Policy
+- Introduction to Geographic Information Systems
 - Environmental Justice
 - Energy Politics and Policy
 - Political Ecology
 - Labour Environmentalism
 - International Political Economy
 - Introduction to International Relations
-- Introduction to Comparative Politics
 - Political Geography
